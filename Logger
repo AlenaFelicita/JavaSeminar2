@@ -1,0 +1,4 @@
+Array: [3, 5, 7, 9]
+After iteration1: [5, 3, 9, 7]
+After iteration2: [7, 9, 3, 5]
+After iteration3: [3, 9, 7, 5]
